@@ -17,12 +17,19 @@ The application uses JDBC to connect with a MySQL database and follows a layered
 
 ## ✨ Features
 👨‍🎓 Student Management – Add, view, search, update, and delete students.
+
 📅 Attendance Management – Mark and manage student attendance.
+
 📊 Attendance Percentage – Calculate individual student attendance percentage.
+
 📆 Attendance Reports – View date-wise and monthly attendance reports.
+
 📈 Dashboard – View important student and attendance statistics.
+
 🔍 Search – Search students by ID or name.
+
 🗄️ MySQL Database – Store and manage student and attendance data using JDBC.
+
 🏗️ Layered Architecture – Controller, Service, Repository, Model, and Utility layers.
 
 ### Student Management
